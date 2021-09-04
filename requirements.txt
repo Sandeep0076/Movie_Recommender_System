@@ -90,7 +90,6 @@ setuptools==57.4.0
 six==1.16.0
 smmap==4.0.0
 sniffio==1.2.0
-spacy==2.3.5
 srsly==1.0.5
 streamlit==0.88.0
 terminado==0.9.4
