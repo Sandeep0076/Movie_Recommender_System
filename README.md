@@ -17,3 +17,5 @@ I will perform the following steps :
 	* There after I created a front end in streamlit
 	* Created a web api for extracting the relevent posters from the tmdb app
 	* Finally displayed the name of the movie along with the posters of the recommend movie
+
+Working example : https://www.awesomescreenshot.com/video/5104381?key=8cc8856effb365fc916ed8aa54650046
