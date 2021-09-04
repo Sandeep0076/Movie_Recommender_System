@@ -1,0 +1,8 @@
+Steps for using API :
+	* Create an account at tmdb.
+	* Go to settings and get the API keys.
+	* Go to tmdb API, select the movies and get the api (In this api, when we put id of the movie, it returns movie information)
+	* API requires, movie id and api key.
+	* It will return json (can be seen in jasn viewer for better understanding)
+	* From the Json, there is a parameter Poster Path, extract that path
+	* This path can be used inside the front end to display the posters
