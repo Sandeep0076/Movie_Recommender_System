@@ -17,5 +17,10 @@ I will perform the following steps :
 	* There after I created a front end in streamlit
 	* Created a web api for extracting the relevent posters from the tmdb app
 	* Finally displayed the name of the movie along with the posters of the recommend movie
+	* to expose the local url to the public:
+		* download/use ngrok 
+		* run the streamlit app
+		* paste ngrok http 8501 (the port on which local app is running )
+		* Get the url from there that is eccessible rto outside world. 
 
 Working example : https://www.awesomescreenshot.com/video/5104381?key=8cc8856effb365fc916ed8aa54650046
